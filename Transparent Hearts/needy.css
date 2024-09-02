@@ -1,0 +1,46 @@
+.container{
+    max-width:500px;
+    width : 100%;
+    margin: 20px auto;
+    padding: 30px;
+    box-shadow:  10px 10px 10px 10px rgba(0,0,0,0.12);
+    border-radius:10px;
+  
+  
+}
+.container .title{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom:25px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.container .form{
+    width: 100%;
+}
+.container .form .input_field{
+    margin-bottom: 15px;
+    display:flex;
+    align-items: center;
+}
+.container .form .input_field label{
+    width: 200px;
+
+}
+input{
+    border:2px solid black;
+}
+
+.button{
+    color:white;
+    border-radius: 5px;padding: 5px; width: 100px;font-size: 20px;margin-top: 2%;
+    background-color:rebeccapurple;
+}
+.container .hi{
+    display:inline-flex
+}
+.container .hi1
+{
+    display:inline-flex
+}
